@@ -20,7 +20,6 @@ describe("Headline component", () => {
   });
 
   it("should render props", () => {
-    let wrapper;
     beforeEach(() => {
       const props = {
         header: "Test header",
@@ -42,7 +41,6 @@ describe("Headline component", () => {
   });
 
   it("should render no props", () => {
-    let wrapper;
     beforeEach(() => {
       wrapper = setUp();
     });
