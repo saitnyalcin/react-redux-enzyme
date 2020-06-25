@@ -1,6 +1,6 @@
 ## React, Redux and Enzyme testing application
 
-Within this application, we will be including the following implementation and how to test them:
+### Within this application, we will be including the following implementation and how to test them:
 
 Connected and unconnected components
 Component state and Redux state
