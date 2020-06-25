@@ -1,4 +1,4 @@
-## React, Redux and Enzyme testing applicatio
+## React, Redux and Enzyme testing application
 
 Within this application, we will be including the following implementation and how to test them:
 
